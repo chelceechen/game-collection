@@ -1,0 +1,19 @@
+.maze {
+  /* width: 100vw;
+  height: 100vh; */
+}
+
+.bottomSide {
+  display: flex;
+  flex-direction: row;
+}
+
+.leftSide {
+  flex: 2;
+  background-color: yellow;
+}
+
+.rightSide {
+  flex: 4;
+  /* background-color: green; */
+}

@@ -1,0 +1,13 @@
+.homePageTitle {
+  font-family: "M PLUS Code Latin", sans-serif;
+  font-family: "Raleway", sans-serif;
+  font-size: calc(6vw + 10px);
+  text-align: center;
+  margin-bottom: 8vh;
+}
+
+.gameCollection {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
